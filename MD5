@@ -1,4 +1,4 @@
-cec80018fe14ad4fb7b2c2579b507b0d *DESCRIPTION
+9d9ea1e78be8a96c6874ed8d0580dad6 *DESCRIPTION
 84a0400d00e9d0a14d2ea07eb9cf7a9a *NAMESPACE
 1575132ebde43db78e0d8e395d52e6a1 *NEWS.md
 23c7e7b7265c6ec0e3089bfdc7225f75 *R/Htest.R
@@ -6,11 +6,12 @@ cec80018fe14ad4fb7b2c2579b507b0d *DESCRIPTION
 89ffea2253b246b9f61dcca20b914e26 *R/engage.R
 01037509b42e127e889896ecd1ba09b9 *R/engage.miss.R
 90bf28b5a3e97f04334dfaed7d4884ef *R/globals.R
-671c4380c664a9a53e6d0394b54b0d79 *R/group_center.R
+5b27a031a594e68819cd687024354c70 *R/group_center.R
 53d1c891a071a53d7ff3a37191198bd6 *R/group_mean.R
-9ecee56cc713c181f3095a94830c6397 *R/hdp.R
+324caaa0dadd12f78e84e3b62e86f8da *R/hdp.R
 d582f3f6784db4be067249cf2dba363f *R/helper.R
 a0e9d545041685343eb48fe8d836b822 *R/nmiss.R
+e68b49bac700db29d1a8d7f5f0b69d5f *R/pisa2012.R
 3a5f46483f674b10823ad57cb2afc0a9 *R/ri_test1.R
 12a8a76760ea744e4bec834b38b36467 *R/ri_test2.R
 b1019e08fca7af99a853cebd178dc824 *R/robust_mixed.R
@@ -27,6 +28,7 @@ b585b60a3316c5ab968304e78de5a395 *README.md
 7d99bf20980ddd8de7cb8d0e779d140a *data/engage.miss.rda
 59b8e68fb32ca5a632de205c844fd243 *data/engage.rda
 d68001856e5fd7785cb997e49872a4dc *data/hdp.rda
+2c8a1cde9443bb89addc26cdbb7574b2 *data/pisa2012.rda
 61723b9553eba091d208db3b4030150e *data/ri_test1.rda
 5751901cc6ad262facb368876c63be84 *data/ri_test2.rda
 f65a6c69803cfafc53335f06b3c5a8c0 *data/sch29.rda
@@ -42,9 +44,10 @@ dc74ab2aa169e8c825858692bf6257ff *man/cdata.ex.Rd
 cb4fff2d86e9d88b1819ccd5bdbcaeb3 *man/glance.CR2.Rd
 c85e6dcfe37ff1480459e55d2c27f025 *man/group_center.Rd
 a2bed0404e9750052ba5fd9a3e143e6c *man/group_mean.Rd
-e7165df6740f1fdd9a00a088b96c42e1 *man/hdp.Rd
+a1243641e9a10b0f77b42829e5255f4b *man/hdp.Rd
 1a14cbeeb7b712325bd92465ceac37cf *man/nmiss.Rd
 774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
+b5de8e37c26abce8b9e158009403b07a *man/pisa2012.Rd
 ec542447ae1971f00dfb8c5ef69453c1 *man/ri_test1.Rd
 ac9241f8cf427cdc61dde575b0108c4a *man/ri_test2.Rd
 0258a60bea5e1327942266cc2453e7a8 *man/robust_mixed.Rd
